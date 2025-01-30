@@ -1,0 +1,326 @@
+{
+  "main": {
+    "id": "0cb1f20928a4edd4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3a84f6892715104",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d07c94780a1cc34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Disciplinas 2025/Disciplinas 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Disciplinas 2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b9c2331f345a674",
+    "type": "split",
+    "children": [
+      {
+        "id": "c163ac45b10733b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c138d950bc38642",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Mobile",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "3aafefd56a576cb8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          },
+          {
+            "id": "5f1201b2a42b8c92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 389.5
+  },
+  "right": {
+    "id": "f1a29a37a687a8b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "55dd1e65ef3f14fc",
+        "type": "tabs",
+        "dimension": 63.68876080691642,
+        "children": [
+          {
+            "id": "fa39f5ae8d2be792",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Disciplinas 2025/Disciplinas 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Disciplinas 2025"
+            }
+          },
+          {
+            "id": "75ba96067be872ba",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "5e8aead4f2778540",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Disciplinas 2025/Disciplinas 2025.md"
+              },
+              "icon": "lucide-info",
+              "title": "Propriedades do arquivo Disciplinas 2025"
+            }
+          },
+          {
+            "id": "d6a3cfca6ddb84e2",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Disciplinas 2025/Disciplinas 2025.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224428,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Gráfico de Disciplinas 2025"
+            }
+          },
+          {
+            "id": "ed53b164a443d130",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "bb78e4bcf4d3dfa0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "1d5d8595cba103c8",
+        "type": "tabs",
+        "dimension": 36.31123919308357,
+        "children": [
+          {
+            "id": "121485acefdaaca6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f82b3d97de07997b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "c2d8290f9b7b73dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "211e1469e9273b9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "ed92f12c0eafa1b8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 892.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir importador Markdown": false,
+      "obsidian-kanban:Criar um novo quadro": false,
+      "periodic-notes:Open today": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0d07c94780a1cc34",
+  "lastOpenFiles": [
+    "README.md",
+    "Disciplinas 2025/Empreendedorismo e inovação/Empreendedorismo e inovação.md",
+    "Disciplinas 2025/Empreendedorismo e inovação/07 - Tecnologia no Empreendedorismo.md",
+    "Disciplinas 2025/Empreendedorismo e inovação/05 - Planejamento de Ideias.md",
+    "Disciplinas 2025/Empreendedorismo e inovação/03 - O que é Inovação.md",
+    "Disciplinas 2025/Empreendedorismo e inovação/02 - Perfil Empreendedor.md",
+    "Disciplinas 2025/Disciplinas 2025.md",
+    "Disciplinas 2025/Edição de Imagens/Edição de Imagens.md",
+    "Disciplinas 2025/Informática Aplicada à Negocios/Informática Aplicada à Negócios.md",
+    "Disciplinas 2025/Criatividade e Inovação/Criatividade e Inovação.md",
+    "Disciplinas 2025/Criatividade e Inovação/04 - O que é Inovação.md",
+    "Templates/Aulas da Disciplina.md",
+    "Disciplinas 2025/Programação em Novas Tecnologias (Mobile)/Programação em Novas Tecnologias (Mobile).md",
+    "Disciplinas 2025/Programação em Novas Tecnologias (Mobile)/12 - Explorando Aplicativos Simples.md",
+    "Disciplinas 2025/Programação em Novas Tecnologias (Mobile)/11 - Como Funciona um Aplicativo.md",
+    "Disciplinas 2025/Programação em Novas Tecnologias (Mobile)/10 - Projetando Ideias.md",
+    "Disciplinas 2025/Programação em Novas Tecnologias (Mobile)/09 - Ferramentas Simples para Criação de Apps.md",
+    "Disciplinas 2025/Programação em Novas Tecnologias (Mobile)/08 - Introdução à Programação Mobile.md",
+    "Disciplinas 2025/Programação em Novas Tecnologias (Mobile)/07 - O Futuro da Tecnologia Mobile.md",
+    "Disciplinas 2025/Programação em Novas Tecnologias (Mobile)/06 - Elementos Visuais de um Aplicativo.md",
+    "Disciplinas 2025/Programação em Novas Tecnologias (Mobile)/05 - Introdução a Design e Usabilidade.md",
+    "Disciplinas 2025/Programação em Novas Tecnologias (Mobile)/04 - Aplicativos no Cotidiano.md",
+    "Disciplinas 2025/Programação em Novas Tecnologias (Mobile)/03 - Diferenças entre Sistemas Operacionais Mobile.md",
+    "Disciplinas 2025/Logica e Linguagem de Programação/Lógica e Linguagem de Programação.md",
+    "Disciplinas 2025/Programação em Novas Tecnologias (Mobile)/02 - O Que é um Aplicativo Mobile.md",
+    "Disciplinas 2025/Programação em Novas Tecnologias (Mobile)/01 - Introdução às Tecnologias Mobile.md",
+    "Templates",
+    "Disciplinas 2025/Edição de Imagens",
+    "Disciplinas 2025/Criatividade e Inovação",
+    "Disciplinas 2025/Informática Aplicada à Negocios",
+    "Disciplinas 2025/Empreendedorismo e inovação",
+    "Disciplinas 2025/Informática Básica",
+    "Disciplinas 2025/Logica e Linguagem de Programação",
+    "Disciplinas 2025/Programação em Novas Tecnologias (Mobile)/Sem título.canvas",
+    "Disciplinas 2025/Programação em Novas Tecnologias (Mobile)",
+    "Disciplinas 2025",
+    "Disciplinas 2025/Logica e Linguagem de Programação",
+    "Anexos/Pasted image 20250129220053.png"
+  ]
+}

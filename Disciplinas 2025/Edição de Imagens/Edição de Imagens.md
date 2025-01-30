@@ -1,0 +1,8 @@
+[[01 - Introdução à Edição de Imagens]]
+[[02 - Conhecendo Ferramentas Básicas]]
+[[03 - Ajustes de Cor e Brilho]]
+[[04 - Recorte e Redimensionamento]]
+[[05 - Ferramentas de Retoque]]
+[[06 - Efeitos e Filtros]]
+[[07 - Inserção de Texto e Elementos Gráficos]]
+[[08 - Criar uma Edição Completa]]

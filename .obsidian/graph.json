@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Disciplinas 2025",
+      "color": {
+        "a": 1,
+        "rgb": 262399
+      }
+    },
+    {
+      "query": "Programação em Novas Tecnologias (Mobile)",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "Lógica e Linguagem de Programação",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "Empreendedorismo e inovação",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "Edição de Imagens",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "Informática Aplicada à Negócios",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "Informática Básica",
+      "color": {
+        "a": 1,
+        "rgb": 15728640
+      }
+    },
+    {
+      "query": "Criatividade e Inovação",
+      "color": {
+        "a": 1,
+        "rgb": 15728640
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -0.7,
+  "nodeSizeMultiplier": 1.2484375,
+  "lineSizeMultiplier": 0.916666666666667,
+  "collapse-forces": false,
+  "centerStrength": 0.385416666666667,
+  "repelStrength": 12.8125,
+  "linkStrength": 0.848958333333333,
+  "linkDistance": 184,
+  "scale": 0.1846232622585847,
+  "close": false
+}
