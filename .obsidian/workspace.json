@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Disciplinas 2025/Disciplinas 2025.md",
+                "file": "Anexos/Sem título.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Disciplinas 2025"
+              "title": "Sem título"
             }
           }
         ]
@@ -88,7 +88,7 @@
       {
         "id": "55dd1e65ef3f14fc",
         "type": "tabs",
-        "dimension": 63.68876080691642,
+        "dimension": 63.68876080691643,
         "children": [
           {
             "id": "fa39f5ae8d2be792",
@@ -193,7 +193,7 @@
       {
         "id": "1d5d8595cba103c8",
         "type": "tabs",
-        "dimension": 36.31123919308357,
+        "dimension": 36.31123919308358,
         "children": [
           {
             "id": "121485acefdaaca6",
@@ -278,19 +278,21 @@
       "command-palette:Abrir paleta de comandos": false,
       "markdown-importer:Abrir importador Markdown": false,
       "obsidian-kanban:Criar um novo quadro": false,
-      "periodic-notes:Open today": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "0d07c94780a1cc34",
   "lastOpenFiles": [
+    "Anexos/Sem título.md",
+    "30-01-25.md",
     "README.md",
+    "Disciplinas 2025/Disciplinas 2025.md",
     "Disciplinas 2025/Empreendedorismo e inovação/Empreendedorismo e inovação.md",
     "Disciplinas 2025/Empreendedorismo e inovação/07 - Tecnologia no Empreendedorismo.md",
     "Disciplinas 2025/Empreendedorismo e inovação/05 - Planejamento de Ideias.md",
     "Disciplinas 2025/Empreendedorismo e inovação/03 - O que é Inovação.md",
     "Disciplinas 2025/Empreendedorismo e inovação/02 - Perfil Empreendedor.md",
-    "Disciplinas 2025/Disciplinas 2025.md",
     "Disciplinas 2025/Edição de Imagens/Edição de Imagens.md",
     "Disciplinas 2025/Informática Aplicada à Negocios/Informática Aplicada à Negócios.md",
     "Disciplinas 2025/Criatividade e Inovação/Criatividade e Inovação.md",
@@ -308,8 +310,6 @@
     "Disciplinas 2025/Programação em Novas Tecnologias (Mobile)/04 - Aplicativos no Cotidiano.md",
     "Disciplinas 2025/Programação em Novas Tecnologias (Mobile)/03 - Diferenças entre Sistemas Operacionais Mobile.md",
     "Disciplinas 2025/Logica e Linguagem de Programação/Lógica e Linguagem de Programação.md",
-    "Disciplinas 2025/Programação em Novas Tecnologias (Mobile)/02 - O Que é um Aplicativo Mobile.md",
-    "Disciplinas 2025/Programação em Novas Tecnologias (Mobile)/01 - Introdução às Tecnologias Mobile.md",
     "Templates",
     "Disciplinas 2025/Edição de Imagens",
     "Disciplinas 2025/Criatividade e Inovação",
